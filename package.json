@@ -1,0 +1,14 @@
+{
+  "name": "alexa-capital-cities",
+  "version": "0.1.0",
+  "description": "Capital Cities skill for Alexa.",
+  "main": "index.js",
+  "repository": "fill me in",
+  "author": "Elliot Winkler <elliot.winkler@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.1.1"
+  },
+  "dependencies": {}
+}
