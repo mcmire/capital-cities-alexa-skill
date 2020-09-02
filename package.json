@@ -1,5 +1,5 @@
 {
-  "name": "alexa-capital-cities",
+  "name": "capital-cities-alexa-skill",
   "version": "0.1.0",
   "description": "Capital Cities skill for Alexa.",
   "main": "index.js",

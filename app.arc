@@ -1,5 +1,5 @@
 @app
-alexa-capital-cities
+capital-cities-alexa-skill
 
 @events
 capital-cities-skill
