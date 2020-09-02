@@ -58,7 +58,6 @@ See the [Provisioning](PROVISIONING.md) document.
 [AWS Lambda]: https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
 [ask-sdk]: https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-nodejs/overview.html
 
-## Author/License
+## License
 
-© 2020 Elliot Winkler (<elliot.winkler@gmail.com>).
-Released under the [un-license](LICENSE).
+All code here is released under the [un-license](LICENSE).
