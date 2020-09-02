@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "@architect/architect": "^6.5.5",
     "prettier": "^2.1.1"
   },
   "dependencies": {}

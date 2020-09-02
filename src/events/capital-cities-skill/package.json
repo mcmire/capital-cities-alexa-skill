@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ask-sdk-core": "^2.9.0",
+    "ask-sdk-model": "^1.30.0",
+    "datasets-us-states-names-capitals": "^1.0.0",
+    "lodash": "^4.17.20"
+  }
+}
