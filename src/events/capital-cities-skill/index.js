@@ -28,7 +28,7 @@ const launchRequestHandler = {
   },
   handle(input) {
     const output =
-      "Welcome to Capitalpedia. You can ask me the capital of any US state and I'll tell you!";
+      "Welcome to Capital Cities. You can ask me the capital of any US state and I'll tell you!";
     const reprompt =
       "Ask me for the capital of a US state and I'll give you the answer.";
 
